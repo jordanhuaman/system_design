@@ -1,4 +1,4 @@
-import { Notifier } from '../notifier';
+import { Notifier } from '../../notifier';
 
 //? Concrete component
 export class EmailNotifier implements Notifier {
